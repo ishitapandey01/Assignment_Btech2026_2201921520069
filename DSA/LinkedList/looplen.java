@@ -1,4 +1,4 @@
-package DSA;
+package DSA.LinkedList;
 import java.util.*;
 class Node{
     int data;

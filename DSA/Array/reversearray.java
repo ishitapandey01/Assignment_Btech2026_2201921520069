@@ -1,7 +1,4 @@
-package DSA;
-
-public class reversearray {
-    // Source code is decompiled from a .class file using FernFlower decompiler.
+package DSA.Array;
 import java.util.Scanner;
 
 public class reversearray {
@@ -39,4 +36,4 @@ public class reversearray {
    }
 }
 
-}
+
